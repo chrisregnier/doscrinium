@@ -1,5 +1,5 @@
 # Architecture
-Uses docker to deploy all services localy
+Uses docker to deploy all services locally
 
 ## frontend
 The frontend is react and using redux for state management. The frontend is served with an nginx proxy.
